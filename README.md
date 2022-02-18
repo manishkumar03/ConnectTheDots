@@ -4,4 +4,4 @@
 </h2>
 
 ## Overview
-ConnectTheDots is an app to demonstrate how to draw circles connected by lines and how to redraw the lines the circles are dragged around.
+`ConnectTheDots` is an app to demonstrate how to draw circles connected by lines and how to redraw the lines when the circles are dragged around.
