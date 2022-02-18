@@ -13,6 +13,7 @@
 		1324EDE227BF3C590076C5BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1324EDE027BF3C590076C5BD /* Main.storyboard */; };
 		1324EDE427BF3C5B0076C5BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1324EDE327BF3C5B0076C5BD /* Assets.xcassets */; };
 		1324EDE727BF3C5B0076C5BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1324EDE527BF3C5B0076C5BD /* LaunchScreen.storyboard */; };
+		1324EDEF27BF3D0F0076C5BD /* ConnectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1324EDEE27BF3D0F0076C5BD /* ConnectionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1324EDE327BF3C5B0076C5BD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1324EDE627BF3C5B0076C5BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1324EDE827BF3C5B0076C5BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1324EDEE27BF3D0F0076C5BD /* ConnectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConnectionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1324EDDA27BF3C590076C5BD /* AppDelegate.swift */,
 				1324EDDC27BF3C590076C5BD /* SceneDelegate.swift */,
 				1324EDDE27BF3C590076C5BD /* ViewController.swift */,
+				1324EDEE27BF3D0F0076C5BD /* ConnectionView.swift */,
 				1324EDE027BF3C590076C5BD /* Main.storyboard */,
 				1324EDE327BF3C5B0076C5BD /* Assets.xcassets */,
 				1324EDE527BF3C5B0076C5BD /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				1324EDDF27BF3C590076C5BD /* ViewController.swift in Sources */,
 				1324EDDB27BF3C590076C5BD /* AppDelegate.swift in Sources */,
+				1324EDEF27BF3D0F0076C5BD /* ConnectionView.swift in Sources */,
 				1324EDDD27BF3C590076C5BD /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
